@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+.lvimrc
+npm-debug.log
+*.sw[o|p]

@@ -1,0 +1,36 @@
+{
+  "name": "promise-spin-wait",
+  "version": "1.0.0",
+  "description": "An ES6-Promise based spin wait",
+  "author": "Marek Ventur <marekventur@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/marekventur/promise-spin-wait",
+  "bugs": {
+    "url": "https://github.com/marekventur/promise-spin-wait/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "pretest": "eslint *.js",
+    "test": "ava"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marekventur/promise-spin-wait.git"
+  },
+  "keywords": [
+    "test",
+    "promise",
+    "spinner",
+    "spinwait",
+    "async"
+  ],
+  "devDependencies": {
+    "ava": "^0.15.2",
+    "babel-eslint": "^6.0.4",
+    "eslint": "^2.12.0",
+    "eslint-plugin-babel": "^3.2.0"
+  }
+}
