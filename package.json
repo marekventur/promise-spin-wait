@@ -1,6 +1,6 @@
 {
   "name": "promise-spin-wait",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An ES6-Promise based spin wait",
   "author": "Marek Ventur <marekventur@gmail.com>",
   "license": "MIT",
